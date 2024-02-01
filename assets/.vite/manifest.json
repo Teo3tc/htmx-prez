@@ -1,0 +1,24 @@
+{
+  "src/components/test.js": {
+    "file": "test-HkEA9561.js",
+    "isDynamicEntry": true,
+    "src": "src/components/test.js"
+  },
+  "src/components/webcomponents.js": {
+    "file": "webcomponents-M3x7VAO9.js",
+    "isDynamicEntry": true,
+    "src": "src/components/webcomponents.js"
+  },
+  "src/pages/main.js": {
+    "css": ["main-OEZNyrsZ.css"],
+    "dynamicImports": ["src/components/test.js", "src/components/webcomponents.js"],
+    "file": "main-fwRMdu8f.js",
+    "isEntry": true,
+    "src": "src/pages/main.js"
+  },
+  "src/pages/product.js": {
+    "file": "product-jmfXBxlw.js",
+    "isEntry": true,
+    "src": "src/pages/product.js"
+  }
+}

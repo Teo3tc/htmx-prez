@@ -1,0 +1,11 @@
+{% liquid
+  # Relative to sourceCodeDir
+  render 'vite-tag' with '@/pages/product.js'
+%}
+<section
+  id="MainProduct-{{ section.id }}"
+  class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
+  data-section="{{ section.id }}"
+>
+  Product
+</section>

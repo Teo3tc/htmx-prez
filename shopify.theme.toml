@@ -1,0 +1,4 @@
+[environments.dev]
+store = "starter-2024.myshopify.com"
+path = "./dist"
+

@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "collection": {
+      "type": "main-index"
+    }
+  },
+  "order": ["main-index"]
+}
